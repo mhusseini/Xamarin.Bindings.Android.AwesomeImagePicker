@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Xamarin.Bindings.Android.AwesomeImagePicker</id>
+    <version>1.0.2</version>
+    <title>Xamarin.Bindings.Android.AwesomeImagePicker</title>
+    <authors>Munir Husseini</authors>
+    <owners>Munir Husseini</owners>
+    <licenseUrl>https://github.com/mhusseini/Xamarin.Bindings.Android.AwesomeImagePicker/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mhusseini/Xamarin.Bindings.Android.AwesomeImagePicker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin bindings library for the Android PhotoView library</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin PhotoView Android Binding</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Xamarin.Bindings.Android.AwesomeImagePicker.dll" target="lib\MonoAndroid10" />
+  </files>
+</package>

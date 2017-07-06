@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+Jars/*
+*.exe
+*.nupkg
+*.user

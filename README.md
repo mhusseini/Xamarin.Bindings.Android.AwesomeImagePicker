@@ -1,4 +1,4 @@
-﻿PhotoView Binding for Xamarin
+﻿Android AwesomeImagePicker Binding for Xamarin
 =============================
 
 Xamarin bindings library for the Android [AwesomeImagePicker library](https://github.com/myinnos/AwesomeImagePicker).
@@ -11,7 +11,7 @@ Installation
 
 Usage
 -----
-For details, please see the [original PhotoView documentation](https://github.com/myinnos/AwesomeImagePicker#how-to-use).
+For details, please see the [original AwesomeImagePicker documentation](https://github.com/myinnos/AwesomeImagePicker#how-to-use).
 
 **Step 1**: start intent to open awesome image picker gallery:
 ```CSharp

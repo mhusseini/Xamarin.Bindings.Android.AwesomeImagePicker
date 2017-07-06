@@ -35,8 +35,6 @@ using IN.Myinnos.Awesomeimagepicker.Helpers;
 
 public override void OnActivityResult(int requestCode, int resultCode, Intent data) 
 {
-    super.onActivityResult(requestCode, resultCode, data);
-
     if (requestCode == ConstantsCustomGallery.RequestCode && resultCode == Activity.ResultOk && data != null) 
     {
         //The array list has the image paths of the selected images
